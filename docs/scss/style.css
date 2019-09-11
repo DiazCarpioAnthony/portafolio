@@ -10767,12 +10767,6 @@ h1, h2, h3, h4, h5,
   z-index: 0;
 }
 
-@media screen and (max-width: 991px) {
-  .owl-carousel.home-slider {
-    z-index: -1;
-  }
-}
-
 .owl-carousel.home-slider:after {
   position: absolute;
   top: 0;
